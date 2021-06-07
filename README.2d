@@ -1,0 +1,11 @@
+Name: Shihab Islam
+class: 335 Spring 2021
+
+
+Part 1:
+	This section was about implementing the "big five" for our 2d points for this project. Each were implemented to properly function to do what they are assigned. Each go and have a personally task to moving or storing data of the points written by the user in the mainfile. 
+
+
+
+Part 2:
+	This section was to overload the operator when we purposely want the data at any and all parts of the code running. both + and [] operators now overload when we input different integers for our points on a coordinate graph. 
